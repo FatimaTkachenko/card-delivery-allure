@@ -22,10 +22,9 @@
 
 ### Общий вид отчёта
 
-![Общий вид отчёта](screenshot-1.png) <img width="1269" height="742" alt="image" src="https://github.com/user-attachments/assets/7c1f9888-40e5-416d-903e-22e4c83811c2" />
+![Общий вид отчёта](screenshot-1.png) <img width="1326" height="957" alt="image" src="https://github.com/user-attachments/assets/a294b577-4e6a-41a5-801a-3a91c65e5720" />
 
 
 ### Прикреплённый скриншот в тесте
 
-![Финальный скриншот](screenshot-2.png) <img width="1326" height="957" alt="image" src="https://github.com/user-attachments/assets/a294b577-4e6a-41a5-801a-3a91c65e5720" />
-
+![Финальный скриншот](screenshot-2.png)  <img width="1269" height="742" alt="image" src="https://github.com/user-attachments/assets/7c1f9888-40e5-416d-903e-22e4c83811c2" />
